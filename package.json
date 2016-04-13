@@ -1,0 +1,25 @@
+{
+  "name": "week11hw",
+  "version": "1.0.0",
+  "description": "week 11 hw",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesD11/week-11.git"
+  },
+  "keywords": [
+    "constructors"
+  ],
+  "author": "James D",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamesD11/week-11/issues"
+  },
+  "homepage": "https://github.com/JamesD11/week-11#readme",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
