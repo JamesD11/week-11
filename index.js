@@ -1,7 +1,7 @@
 var fs= require("fs");
 var prompt = require("prompt");
-var student= require("./student.js");
-var bus= require("./bus.js");
+var Student= require("./student.js");
+var Bus= require("./bus.js");
 
 var storeStudent= new Bus();
 
@@ -13,7 +13,7 @@ prompt.get(["name","gender","grade","gpa","detentions","sleepingInClass","catchP
 
 storeStudent.studentEntersBus(result.name,result.gender,result.grade,result.gpa,result.detentions, result.sleepingInClass,result.catchPhrase);
 
-fs.appendfile("students.txt",JSON.stringify(storeStudent.studentEntersBus) + "\r\n", function(err){
+fs.appendFile("students.txt",JSON.stringify(storeStudent.studentEntersBus) + "\r\n", function(err){
 	if (err){
 		throw error;
 	} else {

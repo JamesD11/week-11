@@ -1,4 +1,4 @@
-var student= require("./student.js");
+var Student= require("./student.js");
 
 
 var Bus= function(){
