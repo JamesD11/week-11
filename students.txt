@@ -1,2 +1,13 @@
 undefined
 undefined
+undefined
+undefined
+[{"name":"james","gender":"male","grade":"senior","gpa":"3.4","detentions":"4","sleepingInClass":"yes","catchPhrase":"awwww yiiiiisssss"}]
+[{"name":"James","gender":"male","grade":"senior","gpa":"4.0","detentions":"5","sleepingInClass":"yes","catchPhrase":"awww yiiiisss"}]
+[{"name":"james","gender":"male","grade":"senior","gpa":"4.0","detentions":"4","sleepingInClass":"yes","catchPhrase":"awwwwwww yiiiiiissss"}]
+[{"name":"james","gender":"male","grade":"senior","gpa":"3.4","detentions":"5","sleepingInClass":"yes","catchPhrase":"awwwwwwww yea"}]
+[{"name":"bob","gender":"female","grade":"junior","gpa":"3.3","detentions":"4","sleepingInClass":"yes","catchPhrase":"what what"}]
+[{"name":"mike","gender":"male","grade":"fresh","gpa":"2.2","detentions":"6","sleepingInClass":"no","catchPhrase":"super"}]
+[{"name":"emily","gender":"female","grade":"soph","gpa":"3.4","detentions":"2","sleepingInClass":"yes","catchPhrase":"heeeeeeyyyyy"}]
+[{"name":"james","gender":"male","grade":"senior","gpa":"1.8","detentions":"11","sleepingInClass":"yes","catchPhrase":"james here"}]
+[{"name":"tom","gender":"fluid","grade":"soph","gpa":"3.3","detentions":"10","sleepingInClass":"yes","catchPhrase":"nooooooooo"}]
